@@ -1,5 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Setup
+
+Prior to building this application, ensure the following environment variables have been configured in .env.local.
+
+- REACT_APP_MOVIE_DB_API_KEY
+- FIREBASE_API_KEY
+- FIREBASE_AUTH_DOMAIN
+- FIREBASE_DB_URL
+- FIREBASE_PROJECT_ID
+- FIREBASE_STORAGE_BUCKET
+- FIREBASE_MSG_SENDER_ID
+- FIREBASE_APP_ID
+- FIREBASE_MEASUREMENT_ID
+
+
 ## Available Scripts
 
 In the project directory, you can run:

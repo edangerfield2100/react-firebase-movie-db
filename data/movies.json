@@ -1,0 +1,413 @@
+{
+    "page": 1,
+    "total_results": 10000,
+    "total_pages": 500,
+    "results": [
+        {
+            "popularity": 175.793,
+            "vote_count": 14846,
+            "video": false,
+            "poster_path": "\/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+            "id": 299534,
+            "adult": false,
+            "backdrop_path": "\/orjiB3oUIsyz60hoEqkiGpy5CeO.jpg",
+            "original_language": "en",
+            "original_title": "Avengers: Endgame",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "title": "Avengers: Endgame",
+            "vote_average": 8.3,
+            "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+            "release_date": "2019-04-24"
+        },
+        {
+            "popularity": 126.902,
+            "vote_count": 6681,
+            "video": false,
+            "poster_path": "\/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+            "id": 420818,
+            "adult": false,
+            "backdrop_path": "\/nRXO2SnOA75OsWhNhXstHB8ZmI3.jpg",
+            "original_language": "en",
+            "original_title": "The Lion King",
+            "genre_ids": [
+                12,
+                16,
+                10402,
+                10751
+            ],
+            "title": "The Lion King",
+            "vote_average": 7.2,
+            "overview": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.",
+            "release_date": "2019-07-12"
+        },
+        {
+            "popularity": 172.973,
+            "vote_count": 5929,
+            "video": false,
+            "poster_path": "\/pjeMs3yqRmFL3giJy4PMXWZTTPa.jpg",
+            "id": 330457,
+            "adult": false,
+            "backdrop_path": "\/xJWPZIYOEFIjZpBL7SVBGnzRYXp.jpg",
+            "original_language": "en",
+            "original_title": "Frozen II",
+            "genre_ids": [
+                12,
+                16,
+                35,
+                14,
+                10402,
+                10751
+            ],
+            "title": "Frozen II",
+            "vote_average": 7.3,
+            "overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+            "release_date": "2019-11-20"
+        },
+        {
+            "popularity": 125.134,
+            "vote_count": 8229,
+            "video": false,
+            "poster_path": "\/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+            "id": 429617,
+            "adult": false,
+            "backdrop_path": "\/5myQbDzw3l8K9yofUXRJ4UTVgam.jpg",
+            "original_language": "en",
+            "original_title": "Spider-Man: Far from Home",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "title": "Spider-Man: Far from Home",
+            "vote_average": 7.5,
+            "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+            "release_date": "2019-06-28"
+        },
+        {
+            "popularity": 113.246,
+            "vote_count": 9996,
+            "video": false,
+            "poster_path": "\/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+            "id": 299537,
+            "adult": false,
+            "backdrop_path": "\/nBS1vONGYrsL2C68C2oDQ3eKJR1.jpg",
+            "original_language": "en",
+            "original_title": "Captain Marvel",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "title": "Captain Marvel",
+            "vote_average": 7,
+            "overview": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+            "release_date": "2019-03-06"
+        },
+        {
+            "popularity": 215.35,
+            "vote_count": 14587,
+            "video": false,
+            "poster_path": "\/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+            "id": 475557,
+            "adult": false,
+            "backdrop_path": "\/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+            "original_language": "en",
+            "original_title": "Joker",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "title": "Joker",
+            "vote_average": 8.2,
+            "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+            "release_date": "2019-10-02"
+        },
+        {
+            "popularity": 114.107,
+            "vote_count": 5530,
+            "video": false,
+            "poster_path": "\/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+            "id": 181812,
+            "adult": false,
+            "backdrop_path": "\/SPkEiZGxq5aHWQ2Zw7AITwSEo2.jpg",
+            "original_language": "en",
+            "original_title": "Star Wars: The Rise of Skywalker",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "title": "Star Wars: The Rise of Skywalker",
+            "vote_average": 6.6,
+            "overview": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
+            "release_date": "2019-12-18"
+        },
+        {
+            "popularity": 120.539,
+            "vote_count": 5890,
+            "video": false,
+            "poster_path": "\/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+            "id": 301528,
+            "adult": false,
+            "backdrop_path": "\/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+            "original_language": "en",
+            "original_title": "Toy Story 4",
+            "genre_ids": [
+                12,
+                16,
+                35,
+                14,
+                10751
+            ],
+            "title": "Toy Story 4",
+            "vote_average": 7.6,
+            "overview": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.",
+            "release_date": "2019-06-19"
+        },
+        {
+            "popularity": 100.063,
+            "vote_count": 6760,
+            "video": false,
+            "poster_path": "\/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg",
+            "id": 420817,
+            "adult": false,
+            "backdrop_path": "\/v4yVTbbl8dE1UP2dWu5CLyaXOku.jpg",
+            "original_language": "en",
+            "original_title": "Aladdin",
+            "genre_ids": [
+                12,
+                14,
+                10749,
+                10751
+            ],
+            "title": "Aladdin",
+            "vote_average": 7.1,
+            "overview": "A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.",
+            "release_date": "2019-05-22"
+        },
+        {
+            "popularity": 137.527,
+            "vote_count": 4541,
+            "video": false,
+            "poster_path": "\/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
+            "id": 512200,
+            "adult": false,
+            "backdrop_path": "\/zTxHf9iIOCqRbxvl8W5QYKrsMLq.jpg",
+            "original_language": "en",
+            "original_title": "Jumanji: The Next Level",
+            "genre_ids": [
+                12,
+                35,
+                14
+            ],
+            "title": "Jumanji: The Next Level",
+            "vote_average": 7,
+            "overview": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+            "release_date": "2019-12-04"
+        },
+        {
+            "popularity": 145.094,
+            "vote_count": 4086,
+            "video": false,
+            "poster_path": "\/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",
+            "id": 384018,
+            "adult": false,
+            "backdrop_path": "\/qAhedRxRYWZAgZ8O8pHIl6QHdD7.jpg",
+            "original_language": "en",
+            "original_title": "Fast & Furious Presents: Hobbs & Shaw",
+            "genre_ids": [
+                28,
+                12,
+                35
+            ],
+            "title": "Fast & Furious Presents: Hobbs & Shaw",
+            "vote_average": 6.9,
+            "overview": "Ever since US Diplomatic Security Service Agent Hobbs and lawless outcast Shaw first faced off, they just have swapped smacks and bad words. But when cyber-genetically enhanced anarchist Brixton's ruthless actions threaten the future of humanity, both join forces to defeat him. (A spin-off of “The Fate of the Furious,” focusing on Johnson's Luke Hobbs and Statham's Deckard Shaw.)",
+            "release_date": "2019-08-01"
+        },
+        {
+            "popularity": 18.12,
+            "vote_count": 139,
+            "video": false,
+            "poster_path": "\/vhnxaQel1CwfcwLtCkTNpSdjte1.jpg",
+            "id": 615453,
+            "adult": false,
+            "backdrop_path": "\/eGK2JJO1ZeoabWThHmC9IjUTmfP.jpg",
+            "original_language": "zh",
+            "original_title": "哪吒之魔童降世",
+            "genre_ids": [
+                16,
+                35,
+                14
+            ],
+            "title": "Ne Zha",
+            "vote_average": 7.9,
+            "overview": "The Primus extracts a Mixed Yuan Bead into a Spirit Seed and a Demon Pill. The Spirit Seed can be reincarnated as a human to help King Zhou establish a new dynasty, whereas the Demon Pill will create a devil threatening humanity. Ne Zha is the one who is destined to be the hero, but instead he becomes a devil incarnate, because the Spirit Seed and a Demon Pill are switched.",
+            "release_date": "2019-07-26"
+        },
+        {
+            "popularity": 74.072,
+            "vote_count": 3859,
+            "video": false,
+            "poster_path": "\/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+            "id": 166428,
+            "adult": false,
+            "backdrop_path": "\/lFwykSz3Ykj1Q3JXJURnGUTNf1o.jpg",
+            "original_language": "en",
+            "original_title": "How to Train Your Dragon: The Hidden World",
+            "genre_ids": [
+                12,
+                16,
+                10751
+            ],
+            "title": "How to Train Your Dragon: The Hidden World",
+            "vote_average": 7.8,
+            "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+            "release_date": "2019-01-03"
+        },
+        {
+            "popularity": 99.301,
+            "id": 420809,
+            "video": false,
+            "vote_count": 3529,
+            "vote_average": 7.3,
+            "title": "Maleficent: Mistress of Evil",
+            "release_date": "2019-10-16",
+            "original_language": "en",
+            "original_title": "Maleficent: Mistress of Evil",
+            "genre_ids": [
+                14,
+                10751,
+                12
+            ],
+            "backdrop_path": "\/skvI4rYFrKXS73BJxWGH54Omlvv.jpg",
+            "adult": false,
+            "overview": "Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.",
+            "poster_path": "\/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg"
+        },
+        {
+            "popularity": 115.711,
+            "vote_count": 4711,
+            "video": false,
+            "poster_path": "\/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+            "id": 474350,
+            "adult": false,
+            "backdrop_path": "\/8moTOzunF7p40oR5XhlDvJckOSW.jpg",
+            "original_language": "en",
+            "original_title": "It Chapter Two",
+            "genre_ids": [
+                14,
+                27
+            ],
+            "title": "It Chapter Two",
+            "vote_average": 6.9,
+            "overview": "27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers' Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.",
+            "release_date": "2019-09-04"
+        },
+        {
+            "popularity": 67.986,
+            "vote_count": 4204,
+            "video": false,
+            "poster_path": "\/wgQ7APnFpf1TuviKHXeEe3KnsTV.jpg",
+            "id": 447404,
+            "adult": false,
+            "backdrop_path": "\/nDP33LmQwNsnPv29GQazz59HjJI.jpg",
+            "original_language": "en",
+            "original_title": "Pokémon Detective Pikachu",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "title": "Pokémon Detective Pikachu",
+            "vote_average": 7,
+            "overview": "In a world where people collect pocket-size monsters (Pokémon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.",
+            "release_date": "2019-05-03"
+        },
+        {
+            "popularity": 93.431,
+            "vote_count": 5594,
+            "video": false,
+            "poster_path": "\/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+            "id": 399579,
+            "adult": false,
+            "backdrop_path": "\/8RKBHHRqOMOLh5qW3sS6TSFTd8h.jpg",
+            "original_language": "en",
+            "original_title": "Alita: Battle Angel",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "title": "Alita: Battle Angel",
+            "vote_average": 7.1,
+            "overview": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
+            "release_date": "2019-01-31"
+        },
+        {
+            "popularity": 74.513,
+            "vote_count": 2908,
+            "video": false,
+            "poster_path": "\/pU3bnutJU91u3b4IeRPQTOP8jhV.jpg",
+            "id": 373571,
+            "adult": false,
+            "backdrop_path": "\/jb6Ju38HmKX0bYHCmAxs8HyNeJ2.jpg",
+            "original_language": "en",
+            "original_title": "Godzilla: King of the Monsters",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "title": "Godzilla: King of the Monsters",
+            "vote_average": 6.4,
+            "overview": "Follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species, thought to be mere myths, rise again, they all vie for supremacy, leaving humanity's very existence hanging in the balance.",
+            "release_date": "2019-05-29"
+        },
+        {
+            "popularity": 212.595,
+            "vote_count": 6323,
+            "video": false,
+            "poster_path": "\/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+            "id": 530915,
+            "adult": false,
+            "backdrop_path": "\/cqa3sa4c4jevgnEJwq3CMF8UfTG.jpg",
+            "original_language": "en",
+            "original_title": "1917",
+            "genre_ids": [
+                28,
+                18,
+                36,
+                10752
+            ],
+            "title": "1917",
+            "vote_average": 7.9,
+            "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+            "release_date": "2019-12-25"
+        },
+        {
+            "popularity": 41.589,
+            "vote_count": 7186,
+            "video": false,
+            "poster_path": "\/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+            "id": 466272,
+            "adult": false,
+            "backdrop_path": "\/yB2hTgz9CTVYjlMWPSl3LPx5nWj.jpg",
+            "original_language": "en",
+            "original_title": "Once Upon a Time… in Hollywood",
+            "genre_ids": [
+                35,
+                18,
+                53
+            ],
+            "title": "Once Upon a Time… in Hollywood",
+            "vote_average": 7.5,
+            "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
+            "release_date": "2019-07-24"
+        }
+    ]
+}
